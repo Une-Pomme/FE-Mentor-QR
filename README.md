@@ -18,9 +18,7 @@ Very quick excercise with responsive design. Because I haven't done it in a whil
 ![](./screenshot.png)
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site on Netfily](https://beautiful-mooncake-bca85a.netlify.app/)
 
 ## Built with
 
